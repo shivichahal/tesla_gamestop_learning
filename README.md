@@ -1,1 +1,1 @@
-# tesla_gamestop_learning
+# This Repo is for my learning process.
